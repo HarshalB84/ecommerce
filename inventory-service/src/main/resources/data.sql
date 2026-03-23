@@ -1,0 +1,16 @@
+INSERT INTO products (title, stock, price) VALUES
+                                             ('iPhone 15', 50, 79999),
+                                             ('Samsung Galaxy S23', 40, 69999),
+                                             ('OnePlus 12', 60, 64999),
+                                             ('Google Pixel 8', 30, 75999),
+                                             ('Xiaomi 14', 70, 55999),
+                                             ('Realme GT 6', 80, 35999),
+                                             ('iPad Air', 25, 59999),
+                                             ('MacBook Air M2', 15, 109999),
+                                             ('Dell XPS 13', 20, 99999),
+                                             ('Sony WH-1000XM5', 100, 29999),
+                                             ('Boat Airdopes 441', 150, 2499),
+                                             ('Apple Watch Series 9', 35, 45999),
+                                             ('Samsung Smart TV 55"', 10, 74999),
+                                             ('LG Refrigerator 260L', 12, 32999),
+                                             ('HP Pavilion Laptop', 22, 65999);
